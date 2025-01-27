@@ -1,4 +1,4 @@
-Welcome to my GitHub profile! I'm Sayyed Hamed Alizadeh Moghaddam, a passionate PhD student at Queen's University, specializing in remote sensing and the application of machine learning algorithms for processing satellite/airborne images. I am enthusiastic about leveraging the power of data analysis and artificial intelligence to gain valuable insights from Earth observation data.
+Welcome to my GitHub profile! I'm Hamed Alizadeh, a passionate PhD student at Queen's University, specializing in remote sensing and the application of machine learning algorithms for processing satellite/airborne images. I am enthusiastic about leveraging the power of data analysis and artificial intelligence to gain valuable insights from Earth observation data.
 
 _**Education:**_
 
