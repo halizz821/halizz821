@@ -2,7 +2,7 @@ Welcome to my GitHub profile! I'm Hamed Alizadeh, a passionate PhD student at Qu
 
 _**Education:**_
 
-PhD in Remote Sensing, Queen's University 2022-ongoing
+PhD in Remote Sensing, Queen's University 2022-2025
 
 M.Sc. in Remote Sensing, KN Toosi University of Technology, 2016-2018
 
