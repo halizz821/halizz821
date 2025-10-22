@@ -1,4 +1,6 @@
-Welcome to my GitHub profile! I'm Hamed Alizadeh, a passionate PhD student at Queen's University, specializing in remote sensing and the application of machine learning algorithms for processing satellite/airborne images. I am enthusiastic about leveraging the power of data analysis and artificial intelligence to gain valuable insights from Earth observation data.
+Welcome to my GitHub profile! I’m Hamed Alizadeh, a passionate PhD graduate in machine learning and its application in processing satellite and airborne imagery. My research focuses on leveraging AI and data-driven methods to extract meaningful insights from Earth observation data.
+
+Beyond academia, I’m deeply interested in building intelligent systems at scale to tackle real-world challenges—from environmental monitoring to automated AI agents. I develop end-to-end AI solutions using tools like Python, PyTorch, TensorFlow, SQL, LangGraph, LangChain, and cloud platforms such as GCP.
 
 _**Education:**_
 
@@ -8,20 +10,6 @@ M.Sc. in Geo-AI (Remote Sensing), KN Toosi University of Technology, 2016-2018
 
 B.Sc. in Geomatics Engineering, University of Isfahan, 2012-2016
 
-
-_**Research Interests:**_
-
-Remote sensing
-
-Satellite and airborne imagery analysis
-
-Machine learning for geospatial data
-
-Hyperspectral image analysis
-
-Environmental monitoring and change detection
-
-Geometric processing of satellite images
 
 
 **Contact**
